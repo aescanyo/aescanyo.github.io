@@ -31,3 +31,7 @@ public class Java{
   }
 }
 ```
+### Comandos de instalación de NetBeans
+```sh
+  sudo apt install netbeans
+```
