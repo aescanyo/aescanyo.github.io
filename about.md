@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+Soy estudiante de programación en el IES Portada Alta de Málaga.
