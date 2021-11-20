@@ -23,7 +23,7 @@ public class Java{
 }
 ```
 ### Comandos consola
-```sh
+```bash
   sudo apt install netbeans
 ```
 
