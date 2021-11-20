@@ -3,10 +3,13 @@ Este va a ser el primer post de pruebas para la web subida a git que pretende se
 
 # Header 3
 // Javascript code with syntax highlighting.
+
+````bash
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
+```bash
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
