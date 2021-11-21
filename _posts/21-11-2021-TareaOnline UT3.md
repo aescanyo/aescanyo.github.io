@@ -1,7 +1,7 @@
 # Tarea Online 3
 La tarea que se plantea consiste en la programación de unas clases con una estructura todavía bastante básica y también el trabajo con constructores y parámetros. La estructura recomendada para el proyecto es la que figura en la imagen. La clase ES te la puedes descargar en el apartado: Recursos necesarios. Las clases de nuestro proyecto son:
 
-![alt text](assets/PROG03_TAREA_R02_Estructura.png "Imagen") 
+![Estrutura de la aplicación.](../assets/PROG03_TAREA_R02_Estructura.png "Imagen") 
 
   Una clase Comecocos, una versión todavía muy básica, pero que nos permitirá crear objetos de tipo Comecocos, y hacer operaciones básicas con ellos. Pensaremos en ella de forma aislada, como si su única finalidad fuera permitirnos crear un objeto comecocos, y manipularlo para realizar alguna operación, tal como avanzar o cambiar su dirección, etc.
 
