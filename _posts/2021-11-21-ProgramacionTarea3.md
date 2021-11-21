@@ -1,3 +1,8 @@
+---
+title: Tarea programación.UT3
+published: true
+---
+
 # Tarea Online 3
 La tarea que se plantea consiste en la programación de unas clases con una estructura todavía bastante básica y también el trabajo con constructores y parámetros. La estructura recomendada para el proyecto es la que figura en la imagen. La clase ES te la puedes descargar en el apartado: Recursos necesarios. Las clases de nuestro proyecto son:
 
