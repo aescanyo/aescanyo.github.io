@@ -9,9 +9,9 @@ publicado: true
 ## Configurar la red del subsistema linux de windows.
 
 
-Para configurar la red de nuestra distribuciÃn linux instalada en nuestro sistema WindowsÂ®
-tendremos que acceder a la consola de administracion de Hyper-V. Se deberÃ¡ corre con [!TIP] *privilegios de ad mdinistrador*.
-Una vez conectado al servidor, que debe ser nuestramÃquina local, vamos al menÃº** *Administrador de comuntadores virtuales** .
+Para configurar la red de nuestra distribucón linux instalada en nuestro sistema WindowsÂ®
+tendremos que acceder a la consola de administracion de Hyper-V. Se debería correr con ![TIP] *privilegios de ad mdinistrador*.
+Una vez conectado al servidor, que debe ser nuestra máquina local, vamos al menú ***Administrador de comuntadores virtuales*** .
  AllÃ­ elegimos la NIC denominada **WSL**.
 Basta con poner el modo en *Red Interna* y elegir la tarjeta de red local por la que queramos conectarnos.
 
@@ -21,7 +21,7 @@ Basta con poner el modo en *Red Interna* y elegir la tarjeta de red local por la
 
 Si necesitamos compartir archivos, este tipo de servicio puede resultar util. Es una forma rÃ¡pida y sencilla de acceder via http a un directorio dado.
 
-`\# python -m http.server --bind 127.0.0.1 --directory /home/antonio/Documents 8080`
+![code]\# python -m http.server --bind 127.0.0.1 --directory /home/antonio/Documents 8080
 
 ![Windows](../assets/wsl_puerto_direcciorio_direccion.png)
 
@@ -30,7 +30,7 @@ Una vez arrancado el servidor podemos acceder a el desde un navegador, indicando
 ![directorios](../assets/directorio_navegador.png)
 
 
->[!NOTE]
+>![NOTE]
 >
 > Fin del articulo
 >
