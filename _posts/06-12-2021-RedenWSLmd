@@ -1,0 +1,21 @@
+---
+title: WSL y red
+published: true
+---
+
+# [](#header-1) WSL cómo cambiar los valores del conmutador de red de la máquina virtual.
+
+Para cambiar el tipo de adaptador de red de las maquinas virutales instaladas mediante WSL.
+Mediante esta configuración podemos configurar la ip asignada a la máquina virtual 
+y cómo ésta va a salir a internet.
+
+Iniciaremos el visor de Hyper-V en modo `administrador`, en ***Administrador de conmutadores 
+virtuales*** cambiaremos los valores del denominado WSL.
+
+![](../assets/(../assets/wsl-conmutadorRed.png)
+
+Y la configuración para salir a internet y recibir IP es como con Virtual-Box, si elegimos `Red externa` tenemos que seleccionar el NIC local
+por el que salir. En el caso de ***red Interna*** se asigna ip dinámica y se permite salir mediante NAT
+y el último caso, ***red Privada***, no se permite la salida.
+
+![](../assets/(../assets/wsl-tipodeconexion.png)
