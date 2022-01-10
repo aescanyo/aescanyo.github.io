@@ -4,7 +4,7 @@ publicado: true
 ---
 
 ## Expresiones regulares, patrones..
-Las expresiones regulares son una forma de descrbir un conjunto de cadenas basadas en ciertas características comunes. Se usan para buscar, manipular y editar texto y datos.
+Las expresiones _regulares_ son una forma de descrbir un conjunto de cadenas basadas en ciertas características comunes. Se usan para buscar, manipular y editar texto y datos.
 
 ### Paquete ```java.util.regex.```.
 Este paquete se compone principalmente de tres clases ***Patter***,***Matcher*** y ***PatternSyntaxExeption***.
